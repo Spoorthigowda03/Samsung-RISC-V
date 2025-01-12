@@ -1,10 +1,10 @@
 # Samsung-RISCV
 
 <details>
-<summary><h2> Theory</h2> </summary>
+<summary><h2> Task-1 Theory</h2> </summary>
 <br>
   
-## Task-1
+
 ### Running and understanding the C-based code on RISC-V architecture. 
 ![Screenshot 2025-01-06 161342](https://github.com/user-attachments/assets/38e1ac95-70a7-4b07-b2a9-9023f2dea1ec)
   
