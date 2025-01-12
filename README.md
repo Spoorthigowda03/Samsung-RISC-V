@@ -23,8 +23,10 @@
  ### RISCV object dump for optimization level -Ofast.
 
  <summary><h2> Synthesis </h2> </summary> 
+ 
+![Screenshot 2025-01-12 193954](https://github.com/user-attachments/assets/ccd1cd65-091f-475b-bdf8-aca79970d3fe)
 
-![Screenshot 2025-01-12 193001](https://github.com/user-attachments/assets/581b6575-c310-4b41-8b2d-a00d82f3cc46)
+
 ![Screenshot 2025-01-12 193747](https://github.com/user-attachments/assets/77936148-be0f-434d-98a0-7d01f24eeffa)
 ![Screenshot 2025-01-12 193954](https://github.com/user-attachments/assets/ccd1cd65-091f-475b-bdf8-aca79970d3fe)
 
