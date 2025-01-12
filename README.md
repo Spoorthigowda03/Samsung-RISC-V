@@ -23,7 +23,8 @@
 
  <summary><h2> Synthesis </h2> </summary> 
 
-![Screenshot 2025-01-12 193001](https://github.com/user-attachments/assets/1d3b1913-0a8e-4fb8-acd8-ba72643a37ef)
-![Screenshot 2025-01-12 193747](https://github.com/user-attachments/assets/d5925a3f-b474-49d4-9940-939f2d1df9ad)
-![Screenshot 2025-01-12 193954](https://github.com/user-attachments/assets/263e57a2-4d7c-44bc-b842-506634189848)
+![Screenshot 2025-01-12 193001](https://github.com/user-attachments/assets/4d89e98b-eeca-4887-8cd2-e11dc610043c)
+![Screenshot 2025-01-12 193747](https://github.com/user-attachments/assets/a2323af9-a1fd-4958-ab39-0ba74ca7dedb)
+![Screenshot 2025-01-12 193954](https://github.com/user-attachments/assets/e1e814c7-7e1a-4412-a7ab-cc88ba1d7379)
+
 
