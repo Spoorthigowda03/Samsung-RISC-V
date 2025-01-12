@@ -18,4 +18,6 @@
  <summary><h2> theory </h2> </summary> 
 
  ### Compiled C code.
- 
+ ![Screenshot 2025-01-12 193954](https://github.com/user-attachments/assets/88824204-e75f-4488-be2e-a71da0edd5c4)
+
+### RISCV object dump for optimization level -Ofast.
