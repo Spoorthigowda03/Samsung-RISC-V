@@ -21,3 +21,5 @@
  ![Screenshot 2025-01-12 193954](https://github.com/user-attachments/assets/88824204-e75f-4488-be2e-a71da0edd5c4)
 
 ### RISCV object dump for optimization level -Ofast.
+![Screenshot 2025-01-12 193747](https://github.com/user-attachments/assets/9788496b-304e-4d0a-b2eb-ab0b1a703943)
+![Screenshot 2025-01-12 193001](https://github.com/user-attachments/assets/074d240c-b000-4d0b-b711-4bb44570d826)
